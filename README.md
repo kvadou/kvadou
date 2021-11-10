@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Doug and I currently work as a Talent Advocate at Nerdery in Edina, MN. I've been recruiting for the past 7 years, primarily focused on hiring Software Engineers in the Twin Cities metro area. I am in the process of expanding my professional skills software development through the University of Minnesota coding bootcamp. Check out my repo's to see what I've been working on!
+My name is Doug and I currently work as a Senior Talent Acquisition Partner at Electric. I've been recruiting for the past 7 years, primarily focused on hiring Software Engineers in the Twin Cities metro area. I am in the process of expanding my professional skills software development through the University of Minnesota coding bootcamp. Check out my repo's to see what I've been working on!
 
 
 <!--
