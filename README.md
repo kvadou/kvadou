@@ -1,19 +1,28 @@
-### Hi there 👋
+## Hey, I'm Doug
 
-My name is Doug and I've been a technical recruiter for the past 10 years, primarily focused on hiring Software Engineers and Software Engineering Managers all over the country. I am in the process of expanding my professional skills software development through the University of Minnesota coding bootcamp. Check out my repo's to see what I've been working on!
+Tech Director, HR Director, and IT Director at **Story Time Chess** — a ~$3M/year education company operating across multiple US markets plus Singapore and Hong Kong.
 
+I'm a solo developer building and shipping production business applications using **agentic engineering** workflows (Claude Code, AI-assisted development). 20+ product launches across B2B and B2C.
 
-<!--
-**kvadou/kvadou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I'm Building
 
-Here are some ideas to get you started:
+| Project | What It Does | Stack |
+|---------|-------------|-------|
+| **OpsHub** | Operations platform — sales pipeline, scheduling, tutor management, analytics | React, Node/Express, PostgreSQL |
+| **StoryTimeTutors** | Tutor portal — curriculum, training, onboarding, gamification | Next.js, TypeScript, Prisma |
+| **Franchising** | Franchise CRM + prospect portal + training academy | Next.js, TypeScript, Prisma |
+| **ATS** | Applicant tracking system with AI-powered candidate matching | Next.js, TypeScript, Prisma, pgvector |
+| **Hub** | Command center dashboard monitoring all STC apps | Next.js, Turborepo, Prisma |
+| **Doughback** | Dining cashback marketplace (side project) | Next.js, Supabase, Stripe Connect, Mapbox |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+...plus several more in active development (Play, Headstart, Curriculum, Esign).
+
+### How I Work
+
+I build with **agentic engineering** — using AI coding tools not as autocomplete, but as autonomous collaborators that research, plan, implement, and verify. I ship production systems used daily by non-technical teams, so everything has to actually work and be polished enough for real users.
+
+**Stack:** TypeScript, Next.js, React, Node/Express, PostgreSQL, Prisma, Supabase, Heroku
+
+### Previously
+
+Technical recruiter for 10+ years, hiring Software Engineers and Engineering Managers. That background gives me a unique perspective on what good engineering looks like — I've interviewed thousands of developers and now I build production systems myself.
