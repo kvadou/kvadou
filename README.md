@@ -1,8 +1,8 @@
 ## Hey, I'm Doug
 
-Tech Director, HR Director, and IT Director at **Story Time Chess** — a ~$3M/year education company operating across multiple US markets plus Singapore and Hong Kong.
+HR/Tech Director at **Story Time Chess** — an early childhood education company operating across multiple US markets plus Singapore and Hong Kong.
 
-I'm a solo developer building and shipping production business applications using **agentic engineering** workflows (Claude Code, AI-assisted development). 20+ product launches across B2B and B2C.
+I'm a solo developer building and shipping production business applications using **agentic engineering** workflows (Claude Code, AI-assisted development). 10+ product launches across B2B and B2C.
 
 ### What I'm Building
 
@@ -13,7 +13,6 @@ I'm a solo developer building and shipping production business applications usin
 | **Franchising** | Franchise CRM + prospect portal + training academy | Next.js, TypeScript, Prisma |
 | **ATS** | Applicant tracking system with AI-powered candidate matching | Next.js, TypeScript, Prisma, pgvector |
 | **Hub** | Command center dashboard monitoring all STC apps | Next.js, Turborepo, Prisma |
-| **Doughback** | Dining cashback marketplace (side project) | Next.js, Supabase, Stripe Connect, Mapbox |
 
 ...plus several more in active development (Play, Headstart, Curriculum, Esign).
 
